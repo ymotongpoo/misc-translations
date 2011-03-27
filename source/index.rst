@@ -17,6 +17,12 @@ misc tranlations
    ここにあげているドキュメントはすべて訳者の翻訳であり、訳者の意見ではありません。
    翻訳に関してご意見がある方は `@ymotongpoo <http://twitter.com/#!/ymotongpoo>`_ までご連絡ください。
 
+   またドキュメントに関する背景などは訳者のブログのエントリで追記しております。
+
+   * `YAMAGUCHI::weblog`_
+
+   .. _`YAMAGUCHI::weblog`: http://d.hatena.ne.jp/ymotongpoo/
+
 Indices and tables
 ==================
 
