@@ -4,7 +4,7 @@
  なぜErlangなのか
 ==================
 
-* `http://blog.inagist.com/why-erlang`_
+* `Why Erlang <http://blog.inagist.com/why-erlang>`_
 
 最近はErlang関連のWeb書籍の翻訳をしてまして、Erlang関連のニュースなどを収集して読んでいます。そこでたまたま見つけた面白そうなブログがあって、翻訳しようかなと思っていたら@voluntasの兄貴ご推薦ということなので、日常生活を取り戻すべく翻訳してみました。
 このエントリは `inagist <http://inagist.com/>`_ というサービスの公式ブログで、ErlangでWebサービスを作ることの利点を説明した良エントリです。多少補足や外部リンクが必要な部分は僕がリンクを貼ったりしているので、わからない場合はご参照ください。

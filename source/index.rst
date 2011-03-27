@@ -1,10 +1,5 @@
 .. -*- coding: utf-8 -*-
 
-.. misc tranlations documentation master file, created by
-   sphinx-quickstart on Sun Mar 27 10:16:29 2011.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 misc tranlations
 ================
 
@@ -15,6 +10,12 @@ misc tranlations
 
    why_erlang
    unladen_swallow_retrospective
+
+
+.. note::
+
+   ここにあげているドキュメントはすべて訳者の翻訳であり、訳者の意見ではありません。
+   翻訳に関してご意見がある方は `@ymotongpoo <http://twitter.com/#!/ymotongpoo>`_ までご連絡ください。
 
 Indices and tables
 ==================

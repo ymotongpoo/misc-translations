@@ -4,7 +4,9 @@
  Unladen Swallow 回顧録
 ========================
 
-* `http://qinsb.blogspot.com/2011/03/unladen-swallow-retrospective.html`_
+* `Unladen Swallow Retrospective`_
+
+.. _`Unladen Swallow Retrospective`: http://qinsb.blogspot.com/2011/03/unladen-swallow-retrospective.html
 
 Unladen Swallow 回顧録
 ======================
