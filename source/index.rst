@@ -10,6 +10,7 @@ misc tranlations
 
    why_erlang
    unladen_swallow_retrospective
+   an_open_letter_to_the_erlang_beginner
 
 
 .. note::
